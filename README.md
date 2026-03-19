@@ -6,15 +6,15 @@ Browse past events below or check out our [community projects](#community-projec
 
 ## Upcoming
 
-| Date | Event |
-| ---- | ----- |
-| TBA  | TBA   |
+| Date      | Event        |
+| --------- | ------------ |
+| June 2026 | WWDC Hangout |
 
 ## Past Events
 
 | Date        | Event                                                                              | Sessions |
 | ----------- | ---------------------------------------------------------------------------------- | -------- |
-| 15 Mar 2026 | [AI Assisted Software Engineering](./2026-03-15-ai-assisted-software-engineering/) | 6 talks  |
+| 14 Mar 2026 | [AI Assisted Software Engineering](./2026-03-14-ai-assisted-software-engineering/) | 6 talks  |
 
 ## Community Projects
 
@@ -36,9 +36,10 @@ Gave a talk? See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to add your slides
 
 ## Find Us
 
-- **Meetup page:** [link to your Meetup/Eventbrite/Luma page]
-- **Twitter/X:** [@codablemeetup]
-- **Discord/Slack:** [invite link]
+- **Meetup page:** [Luma Calendar](https://luma.com/codablemeetup)
+- **LinkedIn page:** [Codable Meetup](https://www.linkedin.com/company/codable-meetup/?viewAsMember=true)
+- **Twitter/X:** [@codablemeetup](https://x.com/codablemeetup)
+- **Instagram:** [@codablemeetup](https://www.instagram.com/codablemeetup)
 - **Location:** Lagos, Nigeria
 
 ## License
