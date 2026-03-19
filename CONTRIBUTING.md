@@ -40,7 +40,7 @@ Please include a `README.md` inside your session folder with at least the follow
 ```markdown
 # Session Title
 
-**Speaker:** Your Name — [GitHub](https://github.com/you) · [Twitter](https://twitter.com/you)
+**Speaker:** Your Name — [GitHub](https://github.com/you) · [LinkedIn](https://linkedin.com/in/you)
 **Event:** [Event Name](../)
 **Date:** DD Month YYYY
 **Slides:** [slides.pdf](./slides.pdf)
@@ -55,7 +55,7 @@ A short summary of what the talk covered (2–3 sentences is fine).
 - Any setup instructions if the demo code needs them
 ```
 
-See [a full example here](./2026-03-15-ai-assisted-software-engineering/01-prompt-engineering-for-developers/).
+See [a full example here](./2026-03-15-ai-assisted-software-engineering/01-introduction-to-agents-and-agentic-coding/).
 
 ## Guidelines
 
