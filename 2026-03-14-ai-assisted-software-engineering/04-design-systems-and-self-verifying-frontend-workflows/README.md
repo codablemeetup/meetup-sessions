@@ -4,6 +4,7 @@
 **Event:** [AI Assisted Software Engineering](../)
 **Date:** 14 March 2026
 **Slides:** [slides.pdf](./slides.pdf)
+**Source code:** [source-code/](./source-code/)
 
 ## Description
 
