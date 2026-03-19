@@ -21,8 +21,8 @@ This event explored how AI is reshaping the way developers write, review, and sh
 
 ## Recording
 
-[Watch the full event on YouTube](https://youtube.com/) _(if available)_
+[Watch the full event on YouTube](https://youtube.com/)
 
 ## Photos
 
-[Event album](https://www.flickr.com/photos/codablemeetup/) _(if available)_
+[Event album](https://www.flickr.com/photos/codablemeetup/)
