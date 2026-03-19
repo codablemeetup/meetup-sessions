@@ -55,7 +55,7 @@ A short summary of what the talk covered (2–3 sentences is fine).
 - Any setup instructions if the demo code needs them
 ```
 
-See [a full example here](./2026-03-15-ai-assisted-software-engineering/01-introduction-to-agents-and-agentic-coding/).
+See [a full example here](./2026-03-14-ai-assisted-software-engineering/01-introduction-to-agents-and-agentic-coding/).
 
 ## Guidelines
 
